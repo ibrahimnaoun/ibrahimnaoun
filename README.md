@@ -43,7 +43,7 @@ Turning real-world problems into data-driven and AI-powered solutions.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimnaoun&show_icons=true&theme=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimnaoun&show_icons=true&theme=github_graywhite)
 
 ---
 
