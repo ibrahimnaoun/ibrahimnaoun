@@ -19,7 +19,7 @@ Turning real-world problems into data-driven and AI-powered solutions.
 | [User Behavior Analysis – Music App](https://github.com/ibrahimnaoun/User-Behavior-Analysis-in-a-Music-Streaming-App) | Deep insights from 26M+ listening records to predict user upgrades | Python, Pandas, ML |
 | [Interview & Role Acceptance Analysis](https://github.com/ibrahimnaoun/Insights-into-Interview-and-Role-Acceptance) | What factors drive job offers and candidate decisions? | Python, ML, Analytics |
 | [Weather & Income vs. IQ Across Countries](https://github.com/ibrahimnaoun/Analyzing-the-Effect-of-Weather-and-Income-on-IQ-Across-Countries) | Socioeconomic and climate factors affecting national IQ | Python, Data Viz |
-| [TSP Benchmark GUI](https://github.com/ibrahimnaoun/TRAVELING-SALESMAN-PROBLEM-Benchmark-) | GUI to compare multiple optimization algorithms for TSP | Python, Tkinter |
+| [TSP Benchmark GUI](https://github.com/ibrahimnaoun/TRAVELING-SALESMAN-PROBLEM-Benchmark-) | GUI to compare multiple optimization algorithms for TSP | Python, PyQT5 |
 | [Learning Maps API](https://github.com/ibrahimnaoun/Learning-Maps-API) | Java-based practice using Google Maps API | Java, Maps API |
 
 ---
